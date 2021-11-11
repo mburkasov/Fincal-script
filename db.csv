@@ -1,0 +1,10 @@
+﻿.blank;call;MM2500BC0
+Burkasov;call;ME9750BC0
+Burkasov;call;ME10000BC0
+Burkasov;call;ME10250BC0
+Burkasov;call;ME10500BC0
+Burkasov;put;ME9750BO0
+Burkasov;put;ME10000BO0
+Burkasov;put;ME10250BO0
+Burkasov;put;ME10500BO0
+Burkasov;main;MOEX-3.20
